@@ -1,0 +1,30 @@
+{
+  "name": "tablero_miguel_trujillo",
+  "version": "1.0.0",
+  "description": "tablero de ajedrez",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MiguelTruGuillen1/ExamenParcialDA1_Miguel_Trujillo.git"
+  },
+  "keywords": [
+    "ajedres",
+    "killme",
+    "please",
+    "master"
+  ],
+  "author": "Miguel Trujillo Guillen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MiguelTruGuillen1/ExamenParcialDA1_Miguel_Trujillo/issues"
+  },
+  "homepage": "https://github.com/MiguelTruGuillen1/ExamenParcialDA1_Miguel_Trujillo#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.17.1",
+    "nodemon": "^1.19.1"
+  }
+}

@@ -1,0 +1,33 @@
+body{
+    background-color: burlywood;
+  
+}
+h1{
+    text-align: center;
+    color: cornflowerblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+.tablero{
+    width:600px;
+    height:600px;
+    margin:  auto;
+}
+
+.casilla_negra{
+width: 12.5%;
+height:100%;
+background-color: black;
+float: right;
+}
+
+.casilla_blanca{
+    width: 12.5%;
+    height:100% ;
+    background-color:whitesmoke;
+    float: right;
+}
+
+.fila-casilla{
+    width:600px;
+    height: 12.5%;
+}
